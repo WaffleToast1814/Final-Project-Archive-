@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+.Text-1{
+    background-color: #8889CC;
+    height: 50px;
+    
+
+}
+
+.Text-2{
+    background-image: url("Bridge.jpg");
+    height: 700px;
+}
+li{
+    list-style-type: none;
+    
+}
+
+li a{
+text-decoration: none;
+list-style-type: none;
+color: black;
+
+}
+
+ul{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Yatta{
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+.Text-3{
+    color: #8889CC;
+    text-align: center;
+    
+}
+
+.Text-4{
+    margin-left: 410px;
+}
+
+.HSR-Text-1{
+    background-color: #8889CC;
+    height: 50px;
+}
+
+.Background-2{
+    background-image: url("Background.png");
+    height: 95vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+
+.HSR-Body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.Background-3{
+    background-image: url("Herta.jpg");
+    height: 95vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Herta-Text{
+    font-size: 30px;
+}
+
+.Herta-Text-2{
+    font-size: 25px;
+    margin-left: 100px;
+    
+}
+
+.Herta-Kuru{
+    margin-left: 400px;
+}
+
+.Herta-Spin{
+    font-size: 30px;
+    margin-left: 300px;
+    background-color: #8889CC;
+}
+
+.Herta-Gifs{
+    overflow-y:auto;
+    
+    
+}
+
+.Herta-Kuru-2{
+    height: 90px;
+}
+
+.Herta-Kuru-3{
+    height: 90px;
+    
+}
+
+
+
+.Herta-Spin-2{
+    font-size: 30px;
+    background-color: #8889CC;
+}
+
+.Herta-Spin-3{
+    font-size: 30px;
+    background-color: #8889CC;
+}
+
+.Text-4-Button{
+    font-size: 30px;
+    margin-left: 580px;
+}
+
+.Color-Change{
+    font-size: 30px;
+    margin-left: 470px;
+    background-color: #8889CC;
+}
+
+.Background-4{
+    background-image: url("Senti.jpg");
+    background-repeat: no-repeat;
+    height: 670px;
+    
+}
+
+.Senti-2{
+    font-size: 30px;
+}
+
+.Senti-Button{
+    font-size: 40px;
+    
+}
+
+.Senti-Button-2{
+    font-size: 40px;
+    margin-left: 70px;
+}
+
+
+
+.Border{
+    border: none;
+    outline: none;
+    color: transparent;
+}
+
+.Background-4 button{
+    background-color: #8889CC;
+    border-radius: 20px;
+}
+
+.Herta-Spin-4{
+    margin-top: 400px;
+    height: 10vh;
+    margin-left: 300px;
+    rotate: 335deg;
+}
+
+.Senti-Yay{
+    background-image: url("Senti\ Yay.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 680px;
+}
+
+.Background-5{
+    background-color: #BB6588;
+    background-size: cover;
+    height: 750px;
+}
+
+.Senti-Text-3{
+    font-size: 60px;
+    text-align: center;
+}
+
+.Senti-Text-4{
+    font-size: 60px;
+    text-align: center;
+}
+
+.Senti-Button-3{
+    font-size: 30px;
+    margin-top: 200px;
+    margin-left: 580px;
+    background-color: #8889CC;
+}
